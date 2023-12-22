@@ -77,7 +77,6 @@ font-style: normal;
     background:#404BBF;
     cursor: pointer;
 }
-/* Our portfolio */
 .list-features {
     background: #FFFFFF;
 }
@@ -89,8 +88,8 @@ font-style: normal;
     background-color: #FFFFFF
     font-size: 20px;
     font-weight: 500;
-    line-height: 24px;
-    letter-spacing: 0.4px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
 }
 .text-features {
     color: #434455;
